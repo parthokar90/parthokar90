@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Partho Saroti Kar
 #### A passionate backend developer from Bangladesh
-![A passionate backend developer from Bangladesh]
 
 A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a
 growth-oriented company where I can use my skills to the advantage of the company while having the scope to
