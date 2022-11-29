@@ -1,5 +1,3 @@
-
-(https://avatars.githubusercontent.com/u/22549869?v=4)
 ### Hi there 👋, my name is Partho Saroti Kar
 #### A passionate backend developer from Bangladesh
 ![A passionate backend developer from Bangladesh]
