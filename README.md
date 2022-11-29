@@ -6,7 +6,7 @@ A motivated individual with in-depth knowledge of languages and development tool
 growth-oriented company where I can use my skills to the advantage of the company while having the scope to
 develop my own skills.
 
-Skills: VUE JS / LARAVEL / JS / HTML / CSS
+Skills: VUE JS / LARAVEL / PHP / JS / HTML / CSS
 
 - 🔭 I’m currently working on Parcel magic order management system project 
 - 🌱 I’m currently learning Vuejs, Microservice, RabbitMQ etc.. 
