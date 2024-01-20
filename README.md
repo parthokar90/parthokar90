@@ -7,7 +7,7 @@ develop my own skills.
 
 Skills: VUE JS / LARAVEL / PHP / JS / HTML / CSS
 
-- 🔭 I’m currently working on Parcel magic order management system project 
+- 🔭 I’m currently working on Vehicle Tracking Management System
 - 🌱 I’m currently learning Vuejs, Microservice. 
 - 💬 Ask me about Php, Laravel, Vuejs 
 - 📫 How to reach me: parthokar90@gmail.com 
