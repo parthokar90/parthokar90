@@ -1,75 +1,72 @@
-👋 Hello, I'm Partho Saroti Kar
-🚀 Software Engineer | Backend Developer (Laravel/PHP) | React & Next.js Enthusiast
+# 👋 Hello, I'm **Partho Saroti Kar**
+### 🚀 Software Engineer | Backend Developer (Laravel & PHP) | React & Next.js Enthusiast  
+From **Bangladesh**
 
-From Bangladesh
+I am a dedicated **Software Engineer** with strong experience in developing scalable and high-performance web applications.  
+My expertise lies in **backend development** using Laravel & PHP, and I also enjoy building full-stack solutions with **React, Next.js, and MySQL**.
 
-I am a dedicated Software Engineer with strong experience in designing and developing scalable, secure, and high-performance web applications.
-My primary focus is backend engineering using Laravel & PHP, and I enjoy building full-stack solutions using React, Next.js & MySQL.
+---
 
-I am passionate about:
+## 🛠️ Technical Expertise
 
-Writing clean, maintainable code
+### **Core Skills**
+- **Languages:** PHP, JavaScript (ES6+)
+- **Backend:** Laravel, REST APIs, Authentication, Middleware
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Database:** MySQL, Query Optimization, Eloquent ORM
+- **Tools & DevOps:** Git, GitHub, Docker, Linux/Ubuntu, Nginx
+- **Hosting:** DigitalOcean, VPS Management, Deployment Automation
 
-Building real-world business applications
+---
 
-Designing robust architecture for SaaS platforms
+## 🧩 What I Build
+- Scalable SaaS Applications  
+- HRMS, Payroll & Attendance Systems  
+- API-Driven Applications  
+- Admin Panels & Dashboards  
+- Real-World Enterprise Solutions  
 
-Improving system performance & scalability
+---
 
-🛠️ Technical Expertise
-Core Skills
+## 📫 Contact Me
+- **Email:** parthokar90@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/partho-kar-0700b0b2/  
+- **GitHub:** https://github.com/parthokar90  
 
-Languages: PHP, JavaScript (ES6+)
+---
 
-Backend: Laravel, REST API Development, Authentication, Middleware
+## 🌐 Social Profiles
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30'>](https://github.com/parthokar90)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30'>](https://www.linkedin.com/in/partho-kar-0700b0b2/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30'>](https://www.facebook.com/prthokar)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='30'>](https://stackoverflow.com/users/6368448)
 
-Frontend: React.js, Next.js, HTML5, CSS3, Tailwind/Bootstrap
+---
 
-Database: MySQL, Query Optimization, Eloquent ORM
+## 📊 GitHub Stats
 
-Tools & DevOps: Git, GitHub, Docker, Linux/Ubuntu, Nginx
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthokar90&layout=compact&theme=tokyonight" />
+</p>
 
-Hosting: DigitalOcean, VPS management, Deployment Automation
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=parthokar90&theme=tokyonight" />
+</p>
 
-🧩 What I Build
+---
 
-Scalable SaaS Applications
-
-HRMS, Payroll & Attendance Systems
-
-API-driven applications
-
-Admin Panels & Dashboards
-
-Real-world enterprise solutions
-
-📫 Reach Me
-
-Email: parthokar90@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/partho-kar-0700b0b2/
-
-GitHub: https://github.com/parthokar90
-
-🌐 Social Profiles
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30'>
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30'>
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30'>
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='30'>
-
-📊 GitHub Performance Overview
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthokar90&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com/?user=parthokar90&theme=tokyonight" /> </p>
-🏅 Badges
-
+## 🏅 Badges
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
-👁️ Profile Views
+---
 
-🚀 Final Notes
+## 👁️ Profile Views  
+![Profile views](https://gpvc.arturio.dev/parthokar90)
 
-I love exploring new technologies, optimizing system performance, and delivering high-quality software solutions.
-Always learning, improving, and building.
+---
+
+## 🚀 About Me  
+I enjoy solving real-world problems, optimizing system performance, and writing clean, maintainable code.  
+Always exploring new technologies and improving my craft every day.
+
