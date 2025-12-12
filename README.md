@@ -1,15 +1,13 @@
 ### Hi there 👋, my name is Partho Saroti Kar
 #### A passionate backend developer from Bangladesh
 
-A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a
-growth-oriented company where I can use my skills to the advantage of the company while having the scope to
-develop my own skills.
+🚀 Software Engineer | Laravel & React Developer | Full-Stack Problem Solver
+a passionate Software Engineer who loves building scalable web applications with PHP, Laravel, React, Next.js, and MySQL.
+I focus on writing clean, maintainable code and enjoy building real-world systems  and SaaS platforms.
 
-Skills: VUE JS / LARAVEL / PHP / JS / HTML / CSS
+Skills: REACT JS / LARAVEL / PHP / JS / HTML / CSS
 
 - 🔭 I’m currently working on Vehicle Tracking Management System
-- 🌱 I’m currently learning Vuejs, Microservice. 
-- 💬 Ask me about Php, Laravel, Vuejs 
 - 📫 How to reach me: parthokar90@gmail.com 
 
 
