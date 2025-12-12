@@ -1,28 +1,75 @@
-### Hi there 👋, my name is Partho Saroti Kar
-#### A passionate backend developer from Bangladesh
+👋 Hello, I'm Partho Saroti Kar
+🚀 Software Engineer | Backend Developer (Laravel/PHP) | React & Next.js Enthusiast
 
-🚀 Software Engineer | Laravel & React Developer | Full-Stack Problem Solver
-a passionate Software Engineer who loves building scalable web applications with PHP, Laravel, React, Next.js, and MySQL.
-I focus on writing clean, maintainable code and enjoy building real-world systems  and SaaS platforms.
+From Bangladesh
 
-Skills: REACT JS / LARAVEL / PHP / JS / HTML / CSS
+I am a dedicated Software Engineer with strong experience in designing and developing scalable, secure, and high-performance web applications.
+My primary focus is backend engineering using Laravel & PHP, and I enjoy building full-stack solutions using React, Next.js & MySQL.
 
-- 🔭 I’m currently working on Vehicle Tracking Management System
-- 📫 How to reach me: parthokar90@gmail.com 
+I am passionate about:
 
+Writing clean, maintainable code
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parthokar90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/partho-kar-0700b0b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prthokar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6368448)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/parthokar90)  
+Building real-world business applications
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+Designing robust architecture for SaaS platforms
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthokar90)](https://github.com/anuraghazra/github-readme-stats)
+Improving system performance & scalability
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true)  
+🛠️ Technical Expertise
+Core Skills
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parthokar90)  
+Languages: PHP, JavaScript (ES6+)
 
-![GitHub metrics](https://metrics.lecoq.io/parthokar90)  
+Backend: Laravel, REST API Development, Authentication, Middleware
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=parthokar90)  
+Frontend: React.js, Next.js, HTML5, CSS3, Tailwind/Bootstrap
 
-![Profile views](https://gpvc.arturio.dev/parthokar90)  
+Database: MySQL, Query Optimization, Eloquent ORM
+
+Tools & DevOps: Git, GitHub, Docker, Linux/Ubuntu, Nginx
+
+Hosting: DigitalOcean, VPS management, Deployment Automation
+
+🧩 What I Build
+
+Scalable SaaS Applications
+
+HRMS, Payroll & Attendance Systems
+
+API-driven applications
+
+Admin Panels & Dashboards
+
+Real-world enterprise solutions
+
+📫 Reach Me
+
+Email: parthokar90@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/partho-kar-0700b0b2/
+
+GitHub: https://github.com/parthokar90
+
+🌐 Social Profiles
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30'>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30'>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30'>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='30'>
+
+📊 GitHub Performance Overview
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthokar90&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com/?user=parthokar90&theme=tokyonight" /> </p>
+🏅 Badges
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+
+👁️ Profile Views
+
+🚀 Final Notes
+
+I love exploring new technologies, optimizing system performance, and delivering high-quality software solutions.
+Always learning, improving, and building.
