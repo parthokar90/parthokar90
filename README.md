@@ -1,5 +1,5 @@
-# 👋 Hello, I'm **Partho Saroti Kar**
-### 🚀 Software Engineer | Backend Developer (Laravel & PHP) | React & Next.js Enthusiast  
+# Hello, I'm **Partho Saroti Kar**
+### Software Engineer | Backend Developer (Laravel & PHP) | React & Next.js Enthusiast  
 From **Bangladesh**
 
 I am a dedicated **Software Engineer** with strong experience in developing scalable and high-performance web applications.  
@@ -7,7 +7,7 @@ My expertise lies in **backend development** using Laravel & PHP, and I also enj
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### **Core Skills**
 - **Languages:** PHP, JavaScript (ES6+)
@@ -19,7 +19,7 @@ My expertise lies in **backend development** using Laravel & PHP, and I also enj
 
 ---
 
-## 🧩 What I Build
+## What I Build
 - Scalable SaaS Applications  
 - HRMS, Payroll & Attendance Systems  
 - API-Driven Applications  
@@ -28,14 +28,14 @@ My expertise lies in **backend development** using Laravel & PHP, and I also enj
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - **Email:** parthokar90@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/partho-kar-0700b0b2/  
 - **GitHub:** https://github.com/parthokar90  
 
 ---
 
-## 🌐 Social Profiles
+## Social Profiles
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30'>](https://github.com/parthokar90)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30'>](https://www.linkedin.com/in/partho-kar-0700b0b2/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30'>](https://www.facebook.com/prthokar)
@@ -43,7 +43,7 @@ My expertise lies in **backend development** using Laravel & PHP, and I also enj
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=tokyonight" />
@@ -56,17 +56,17 @@ My expertise lies in **backend development** using Laravel & PHP, and I also enj
 
 ---
 
-## 🏅 Badges
+## Badges
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 ---
 
-## 👁️ Profile Views  
+## Profile Views  
 ![Profile views](https://gpvc.arturio.dev/parthokar90)
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I enjoy solving real-world problems, optimizing system performance, and writing clean, maintainable code.  
 Always exploring new technologies and improving my craft every day.
 
