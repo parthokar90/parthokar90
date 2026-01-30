@@ -1,4 +1,4 @@
-## Hi, I'm Partho Saroti Kar 👋  
+## Hi, I'm Partho Saroti Kar 
 **Software Engineer | Backend-Focused Laravel & PHP Developer | Full-Stack Enthusiast**
 
 I am a results-driven Software Engineer with 5+ years of experience building scalable, secure, and high-performance web applications.  
