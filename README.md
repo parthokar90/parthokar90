@@ -1,9 +1,13 @@
-# Hello, I'm **Partho Saroti Kar**
-### Software Engineer | Backend Developer (Laravel & PHP) | React & Next.js Enthusiast  
-From **Bangladesh**
+## Hi, I'm Partho Saroti Kar 👋  
+**Software Engineer | Backend-Focused Laravel & PHP Developer | Full-Stack Enthusiast**
 
-I am a dedicated **Software Engineer** with strong experience in developing scalable and high-performance web applications.  
-My expertise lies in **backend development** using Laravel & PHP, and I also enjoy building full-stack solutions with **React, Next.js, and MySQL**.
+I am a results-driven Software Engineer with 5+ years of experience building scalable, secure, and high-performance web applications.  
+My core strength lies in backend development using **Laravel & PHP**, where I design clean architectures, optimize performance, and handle complex business logic.
+
+I also enjoy working on full-stack solutions using **React, Next.js, PostgreSQL and MySQL**, especially for SaaS platforms, HRMS systems, payroll, attendance, and enterprise-level applications.
+
+Passionate about writing clean code, solving real-world problems, and continuously improving system performance.
+
 
 ---
 
