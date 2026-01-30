@@ -84,7 +84,11 @@ Passionate about writing clean code, solving real-world problems, and continuous
 
 ---
 
-## About Me  
-I enjoy solving real-world problems, optimizing system performance, and writing clean, maintainable code.  
-Always exploring new technologies and improving my craft every day.
+## About Me
+
+I enjoy solving real-world problems by building efficient, scalable solutions and optimizing system performance.  
+I focus on writing clean, maintainable, and well-structured code that is easy to extend and support over time.
+
+I am continuously learning new technologies, refining my development practices, and improving my craft to deliver better software every day.
+
 
