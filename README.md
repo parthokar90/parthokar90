@@ -11,15 +11,40 @@ Passionate about writing clean code, solving real-world problems, and continuous
 
 ---
 
-## Technical Expertise
+##  Technical Expertise
 
-### **Core Skills**
-- **Languages:** PHP, JavaScript (ES6+)
-- **Backend:** Laravel, REST APIs, Authentication, Middleware
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Database:** MySQL, Query Optimization, Eloquent ORM
-- **Tools & DevOps:** Git, GitHub, Docker, Linux/Ubuntu, Nginx
-- **Hosting:** DigitalOcean, VPS Management, Deployment Automation
+### Core Skills
+
+**Programming Languages**  
+- PHP
+
+**Backend Development**  
+- Laravel (MVC, Service Layer, RESTful APIs)  
+- Authentication & Authorization  
+- Middleware, Validation, API Security  
+- Performance Optimization & Clean Architecture
+
+**Frontend Development**  
+- React.js 
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap
+
+**Databases & ORM**  
+- MySQL, PostgreSQL  
+- Query Optimization  
+- Eloquent ORM, Database Design & Indexing
+
+**DevOps, CI/CD & Tools**  
+- Git, GitHub  
+- Docker (Development & Deployment)  
+- Linux / Ubuntu  
+- Nginx  
+- CI/CD Pipelines (GitHub Actions, automated testing, build & deployment)
+
+**Hosting & Deployment**  
+- AWS, DigitalOcean  
+- VPS Setup & Management  
+
 
 ---
 
