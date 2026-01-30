@@ -45,22 +45,11 @@ Passionate about writing clean code, solving real-world problems, and continuous
 - AWS, DigitalOcean  
 - VPS Setup & Management  
 
-
----
-
-## What I Build
-- Scalable SaaS Applications  
-- HRMS, Payroll & Attendance Systems  
-- API-Driven Applications  
-- Admin Panels & Dashboards  
-- Real-World Enterprise Solutions  
-
 ---
 
 ## Contact Me
 - **Email:** parthokar90@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/partho-kar-0700b0b2/  
-- **GitHub:** https://github.com/parthokar90  
 
 ---
 
