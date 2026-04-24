@@ -48,6 +48,11 @@ Passionate about writing clean code, solving real-world problems, and continuous
 
 ---
 
+## Currently Learning Working
+
+- Advanced Laravel (Service Architecture)
+- System Design for backend scalability
+
 ## Contact Me
 - **Email:** parthokar90@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/partho-kar-0700b0b2/  
