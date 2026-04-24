@@ -61,7 +61,5 @@ Passionate about writing clean code, solving real-world problems, and continuous
 ## Contact Me
 - **Email:** parthokar90@gmail.com  
 
-## GitHub Stats
-![Partho's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=radical)
 
 
