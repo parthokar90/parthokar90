@@ -1,3 +1,4 @@
+![PHP Banner](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
 ## Hi, I'm Partho Saroti Kar 
 **Software Engineer | Backend-Focused Laravel & PHP Developer**
