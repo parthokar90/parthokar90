@@ -62,14 +62,6 @@ Passionate about writing clean code, solving real-world problems, and continuous
 - **Email:** parthokar90@gmail.com  
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthokar90&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=parthokar90&theme=tokyonight" />
-</p>
+![Partho's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthokar90&show_icons=true&theme=radical)
 
 
