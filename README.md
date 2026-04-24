@@ -79,11 +79,6 @@ Passionate about writing clean code, solving real-world problems, and continuous
 
 ---
 
-## Profile Views  
-![Profile views](https://gpvc.arturio.dev/parthokar90)
-
----
-
 ## About Me
 
 I enjoy solving real-world problems by building efficient, scalable solutions and optimizing system performance.  
