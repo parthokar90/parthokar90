@@ -1,4 +1,3 @@
-![Laravel Banner](https://user-images.githubusercontent.com/placeholder/laravel-banner.png)
 
 ## Hi, I'm Partho Saroti Kar 
 **Software Engineer | Backend-Focused Laravel & PHP Developer**
