@@ -80,18 +80,4 @@ Passionate about writing clean code, solving real-world problems, and continuous
   <img height="180" src="https://streak-stats.demolab.com/?user=parthokar90&theme=tokyonight" />
 </p>
 
----
-
-## Badges
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-
----
-
-## About Me
-
-I enjoy solving real-world problems by building efficient, scalable solutions and optimizing system performance.  
-I focus on writing clean, maintainable, and well-structured code that is easy to extend and support over time.
-
-I am continuously learning new technologies, refining my development practices, and improving my craft to deliver better software every day.
-
 
