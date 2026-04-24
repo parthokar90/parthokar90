@@ -61,14 +61,6 @@ Passionate about writing clean code, solving real-world problems, and continuous
 ## Contact Me
 - **Email:** parthokar90@gmail.com  
 
-## Social Profiles
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30'>](https://github.com/parthokar90)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30'>](https://www.linkedin.com/in/partho-kar-0700b0b2/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30'>](https://www.facebook.com/prthokar)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='30'>](https://stackoverflow.com/users/6368448)
-
----
-
 ## GitHub Stats
 
 <p align="center">
