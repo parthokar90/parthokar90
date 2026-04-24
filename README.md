@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/parthokar90/parthokar90/main/assets/banner.png)
 ## Hi, I'm Partho Saroti Kar 
 **Software Engineer | Backend-Focused Laravel & PHP Developer**
 
