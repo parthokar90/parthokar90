@@ -27,12 +27,11 @@ Passionate about writing clean code, solving real-world problems, and continuous
 - Performance Optimization & Clean Architecture
 
 **Frontend Development**  
-- React.js 
 - HTML5, CSS3  
 - Tailwind CSS, Bootstrap
 
 **Databases & ORM**  
-- MySQL, PostgreSQL  
+- MySQL, PostgreSQL, Redis
 - Query Optimization  
 - Eloquent ORM, Database Design & Indexing
 
@@ -57,9 +56,4 @@ Passionate about writing clean code, solving real-world problems, and continuous
 ## Fun Fact
  Coffee = my debugging tool  
  Most of my ideas come after errors 😄  
-
-## Contact Me
-- **Email:** parthokar90@gmail.com  
-
-
 
