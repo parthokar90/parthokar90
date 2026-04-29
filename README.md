@@ -67,7 +67,7 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- AWS (EC2, S3, RDS, SQS), DigitalOcean, VPS Management  
+- AWS (EC2, S3), DigitalOcean, VPS Management  
 - Docker (development & production), Nginx, Linux/Ubuntu  
 - CI/CD Pipelines via GitHub Actions  
 
