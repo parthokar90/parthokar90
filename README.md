@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0D6EFD&center=true&vCenter=true&width=800&lines=Laravel+Backend+Developer;PHP+Developer;SaaS+Builder;Clean+Code+Lover)](https://git.io/typing-svg)
 
 ## Hi, I'm Partho Saroti Kar 
-**Software Engineer | Backend-Focused Laravel & PHP Developer**
+**Senior Software Engineer | Backend-Focused Laravel & PHP Developer**
 
 I am a results-driven Software Engineer with 9 years of experience building scalable, secure, and high-performance web applications.  
 My core strength lies in backend development using **Laravel & PHP**, where I design clean architectures, optimize performance, and handle complex business logic.
