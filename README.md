@@ -81,9 +81,6 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 
 ## Currently Learning & Building
 
--  **Advanced Laravel** — Service layer architecture, repository patterns & domain-driven design  
--  **System Design** — Scalability, distributed systems & high-availability backend architecture  
--  **Message Queues** — Deep diving into Kafka & RabbitMQ for event-driven microservices  
 -  **AI Agents with Python** — Automation, backend workflows & intelligent problem-solving  
 
 ---
