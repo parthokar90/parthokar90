@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Senior+Laravel+%26+PHP+Engineer;SaaS+%7C+HRMS+%7C+Enterprise+Backend+Systems;Clean+Architecture+%7C+Scalable+Systems;Event-Driven+%7C+Microservice-Ready+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0D6EFD&center=true&vCenter=true&width=800&lines=Laravel+Backend+Developer;PHP+Developer;SaaS+Builder;Clean+Code+Lover)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Partho Saroti Kar 👋</h1>
-<h3 align="center">Software Engineer · Backend-Focused · Laravel & PHP Specialist</h3>
+## Hi, I'm Partho Saroti Kar 
+**Software Engineer | Backend-Focused Laravel & PHP Developer**
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+I am a results-driven Software Engineer with 9 years of experience building scalable, secure, and high-performance web applications.  
+My core strength lies in backend development using **Laravel & PHP**, where I design clean architectures, optimize performance, and handle complex business logic.
+
+I also enjoy working on full-stack solutions using ** PostgreSQL and MySQL**, especially for SaaS platforms, HRMS systems, payroll, attendance, and enterprise-level applications.
+
+Passionate about writing clean code, solving real-world problems, and continuously improving system performance.
 
 ---
 
