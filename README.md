@@ -48,10 +48,18 @@ Passionate about writing clean code, solving real-world problems, and continuous
 
 ---
 
+## AI-Assisted Development
+
+- Leveraging AI tools like ChatGPT, Claude, and Cursor for faster development  
+- Code generation, refactoring, and debugging assistance  
+- Writing test cases and improving code quality using AI  
+- Accelerating system design and documentation workflows  
+
 ## Currently Learning & Working
 
-- Advanced Laravel (Service Architecture)
-- System Design for backend scalability
+- Advanced Laravel (Service Architecture, scalable backend patterns)
+- System Design for high-performance and scalable systems
+- Building AI agents using Python (automation, backend workflows, and problem-solving)
 
 ## Fun Fact
  Coffee = my debugging tool  
