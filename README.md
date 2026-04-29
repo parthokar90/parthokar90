@@ -11,9 +11,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Results-driven **Software Engineer with 5+ years of experience** designing and delivering scalable, secure, and high-performance backend systems.
+Results-driven **Software Engineer with 9 years of experience** designing and delivering scalable, secure, and high-performance backend systems.
 
 I specialize in **Laravel & PHP** — building clean architectures, optimizing database performance, and handling complex business logic for real-world production systems.
 
@@ -28,9 +28,9 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
-### ⚙️ Backend
+### Backend
 ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -40,7 +40,7 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 - Authentication & Authorization (Sanctum, Passport, JWT)  
 - Performance Optimization, Clean Code, SOLID Principles  
 
-### 🗄️ Databases & Caching
+### Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -49,20 +49,20 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 - Eloquent ORM, complex joins, high-volume data processing  
 - Redis for caching, session management & queues  
 
-### 📨 Messaging & Event Streaming
+### Messaging & Event Streaming
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 - Apache Kafka, RabbitMQ, Redis Queue  
 - Event-Driven Architecture, Async Job Processing  
 
-### 🧪 Testing & Quality
+### Testing & Quality
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
 - PHPUnit, Feature & Unit Testing, TDD  
 - Xdebug, Performance Profiling  
 
-### ☁️ Cloud, DevOps & Infrastructure
+### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -71,34 +71,33 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 - Docker (development & production), Nginx, Linux/Ubuntu  
 - CI/CD Pipelines via GitHub Actions  
 
-### 🎨 Frontend (Supporting)
+### Frontend (Supporting)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 🚀 Currently Learning & Building
+## Currently Learning & Building
 
-- 🏗️ **Advanced Laravel** — Service layer architecture, repository patterns & domain-driven design  
-- 📐 **System Design** — Scalability, distributed systems & high-availability backend architecture  
-- 📨 **Message Queues** — Deep diving into Kafka & RabbitMQ for event-driven microservices  
-- 🤖 **AI Agents with Python** — Automation, backend workflows & intelligent problem-solving  
+-  **Advanced Laravel** — Service layer architecture, repository patterns & domain-driven design  
+-  **System Design** — Scalability, distributed systems & high-availability backend architecture  
+-  **Message Queues** — Deep diving into Kafka & RabbitMQ for event-driven microservices  
+-  **AI Agents with Python** — Automation, backend workflows & intelligent problem-solving  
 
 ---
 
-## 🤖 AI-Augmented Development
+##  AI-Augmented Development
 
 I actively integrate AI tools into my engineering workflow to ship faster and smarter:
 
 - **Code generation & refactoring** using Claude, ChatGPT & Cursor  
 - **Automated test case generation** and code quality improvement  
-- **System design ideation** and technical documentation acceleration  
-- Treating AI as a **force multiplier** — not a shortcut  
+- **System design ideation** and technical documentation acceleration 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -110,7 +109,3 @@ I actively integrate AI tools into my engineering workflow to ship faster and sm
 </p>
 
 ---
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
