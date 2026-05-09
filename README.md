@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0D6EFD&center=true&vCenter=true&width=800&lines=Laravel+Backend+Developer;PHP+Developer;SaaS+Builder;Clean+Code+Lover)](https://git.io/typing-svg)
-
 ## Hi, I'm Partho Saroti Kar 
 **Senior Software Engineer | Backend-Focused Laravel & PHP Developer**
 
