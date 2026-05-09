@@ -80,7 +80,7 @@ I've worked extensively on **SaaS platforms, HRMS, payroll, attendance, and ente
 
 ## Currently Learning & Building
 
--  **AI Agents with Python** — Automation, backend workflows & intelligent problem-solving  
+-  **AI Agents with Python** — I’m also building AI agents for automation, backend workflows, and intelligent problem-solving.  
 
 ---
 
